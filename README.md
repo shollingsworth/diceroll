@@ -4,7 +4,6 @@ You can run it more times, but I made 10 runs to CSV files.
 
 https://twitter.com/shwood/status/908110007492911105
 
-
 # New information, here is the game
     3-dice-casino
 
